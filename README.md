@@ -26,4 +26,6 @@
 
 # 运行效果
 ![image](https://github.com/z1412994457/dati/blob/master/1.png)
+
+![image](https://github.com/z1412994457/dati/blob/master/2.png)
 # 注意：只支持安卓手机，适配720*1280机型，其他机型未测试，欢迎提交issue （可在代码中改适配）
